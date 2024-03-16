@@ -43,8 +43,8 @@ pip install requests matplotlib
 
 To run the text analysis script, use the following command in the terminal:
 
-```python3 map_reduce.py
-
+```
+python3 map_reduce.py
 ```
 
 ## Features
