@@ -7,7 +7,7 @@ This script asynchronously sorts files in a specified source directory, distribu
 Before running the script, ensure that you have installed the required dependencies with the following command:
 
 ```bash
-pip install aiofiles aiopath aioshutil
+pip install aiofiles aiopath aioshutil requests matplotlib
 ```
 
 ## Usage
