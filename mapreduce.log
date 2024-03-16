@@ -1,0 +1,14 @@
+2024-03-16 22:10:17,728 INFO [MainThread] Requesting text from URL: https://gutenberg.net.au/ebooks01/0100021.txt
+2024-03-16 22:10:21,576 INFO [MainThread] Text successfully downloaded.
+2024-03-16 22:10:25,357 INFO [MainThread] Top 10 most frequent words:
+2024-03-16 22:10:25,359 INFO [MainThread] Word: the, Frequency: 6507
+2024-03-16 22:10:25,360 INFO [MainThread] Word: of, Frequency: 3497
+2024-03-16 22:10:25,360 INFO [MainThread] Word: a, Frequency: 2552
+2024-03-16 22:10:25,362 INFO [MainThread] Word: and, Frequency: 2421
+2024-03-16 22:10:25,362 INFO [MainThread] Word: to, Frequency: 2336
+2024-03-16 22:10:25,362 INFO [MainThread] Word: was, Frequency: 2306
+2024-03-16 22:10:25,363 INFO [MainThread] Word: he, Frequency: 1953
+2024-03-16 22:10:25,363 INFO [MainThread] Word: in, Frequency: 1854
+2024-03-16 22:10:25,364 INFO [MainThread] Word: it, Frequency: 1853
+2024-03-16 22:10:25,364 INFO [MainThread] Word: that, Frequency: 1456
+2024-03-16 22:10:25,370 INFO [MainThread] Execution time: 7.64 seconds.
