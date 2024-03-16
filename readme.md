@@ -7,7 +7,7 @@ This script asynchronously sorts files in a specified source directory, distribu
 Before running the script, ensure that you have installed the required dependencies with the following command:
 
 ```bash
-pip install aiofiles aiopath aioshutil requests matplotlib
+pip install aiofiles aiopath
 ```
 
 ## Usage
@@ -30,6 +30,14 @@ Here, `<path_to_source_folder>` is the path to the folder with the files you wan
 # MapReduce Text Analysis Script
 
 The text analysis script (map_reduce.py) performs text analysis using the MapReduce paradigm. It downloads text from a given URL, analyzes the frequency of word usage, and visualizes the top words with the highest usage frequency.
+
+## Installation
+
+Before running the script, ensure that you have installed the required dependencies with the following command:
+
+```bash
+pip install requests matplotlib
+```
 
 ## Usage
 
